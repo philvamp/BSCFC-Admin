@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "bscfcadminapp",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2023-10-26T21:13:38.216Z",
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authbscfcadminapp62af4e2b",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

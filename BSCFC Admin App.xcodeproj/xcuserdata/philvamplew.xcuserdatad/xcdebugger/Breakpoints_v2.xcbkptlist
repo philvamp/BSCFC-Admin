@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A4E9B8BA-93AC-4020-80CC-6D45AF30CCDB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24DD5845-F16B-4DD3-933E-25A7BBA7C670"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BSCFC Admin App/Backend.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "queryNotes()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E115F8B-BAFD-4F2F-890C-2164B45C9DA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BSCFC Admin App/Backend.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "queryNotes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3E115F8B-BAFD-4F2F-890C-2164B45C9DA1 - 32c725883fd32ac2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "3E115F8B-BAFD-4F2F-890C-2164B45C9DA1 - 2a996725341e944a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (BSCFC_Admin_App.Note) -&gt; Swift.Bool in BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "3E115F8B-BAFD-4F2F-890C-2164B45C9DA1 - 32c725883fd32a7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "564">
+               </Location>
+               <Location
+                  uuid = "3E115F8B-BAFD-4F2F-890C-2164B45C9DA1 - 2a996725341e9736"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (BSCFC_Admin_App.Note) -&gt; Swift.Bool in BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "3E115F8B-BAFD-4F2F-890C-2164B45C9DA1 - 32c725883fd32a7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "3E115F8B-BAFD-4F2F-890C-2164B45C9DA1 - 2a996725341e9736"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (BSCFC_Admin_App.Note) -&gt; Swift.Bool in BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "3E115F8B-BAFD-4F2F-890C-2164B45C9DA1 - 32c725883fd32ae1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2AEB4F0-B078-4D6F-83E5-0C05AD6392A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BSCFC Admin App/Backend.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "queryNotes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2AEB4F0-B078-4D6F-83E5-0C05AD6392A1 - 7ccd150f52fb8816"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "E2AEB4F0-B078-4D6F-83E5-0C05AD6392A1 - a7253d8d3e409fc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "E2AEB4F0-B078-4D6F-83E5-0C05AD6392A1 - 32c725883fd2d410"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "E2AEB4F0-B078-4D6F-83E5-0C05AD6392A1 - 17c22dc949417613"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "432F99F3-3FE5-4069-A267-B424B09F3CC4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BSCFC Admin App/Backend.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "queryNotes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "432F99F3-3FE5-4069-A267-B424B09F3CC4 - 32c725883fd329bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "432F99F3-3FE5-4069-A267-B424B09F3CC4 - 32c725883fd2d46d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BSCFC_Admin_App.Backend.queryNotes() async -&gt; Swift.Array&lt;BSCFC_Admin_App.Note&gt;"
+                  moduleName = "BSCFC Admin App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/philvamplew/MyDevWork/BSCFC%20Admin%20App/BSCFC%20Admin%20App/Backend.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
