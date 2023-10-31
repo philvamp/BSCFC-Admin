@@ -3,7 +3,7 @@
 //  BSCFC Admin App
 //
 //  Created by Phil Vamplew on 21/09/2023.
-//
+//  A Test Update
 
 
 import SwiftUI
@@ -122,15 +122,6 @@ class Backend  {
             let yesterday = Calendar.current.date(byAdding: .day, value: -1, to: now)
             let filterednotes  = result.filter {anote in (anote.realdate! > yesterday!)}
 
-            
-            
-
-
-            
-            
-            
-            
-            
 
             // in real life you probably want to sort on the server side
             // to do this, you need to implement your own query
